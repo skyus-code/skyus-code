@@ -1,4 +1,5 @@
-<h1 align="center">- Yus</h1>
+<h1 align="center">Yus</h1>
+<h1 align="center">Visionary Ambitiously Person | Bring AI as International Global Peace & Unity </h1>
 <h3 align="center">Deep Interest with Artifical Inteligence</h3>
 
 - 🌱 I’m currently learning **NLP & LLM**
