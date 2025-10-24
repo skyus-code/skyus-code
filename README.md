@@ -29,6 +29,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<img src="https://raw.githubusercontent.com/{username}/{repo}/main/languages-and-tools.svg" alt="Languages and Tools" />
 <svg width="600" height="72" viewBox="0 0 600 72" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .tool { font-family: 'Montserrat', Arial, sans-serif; font-weight: 700; font-size: 18px; }
