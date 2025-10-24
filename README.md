@@ -2,7 +2,7 @@
 <h3 align="center" color="blue">Visionary Ambitiously Person | Bring AI as International Global Peace & Unity </h3>
 <h3 align="center">Deep Interest with Artifical Inteligence</h3>
 
-- 🌱 I’m currently learning **NLP & LLM**
+🌱 I’m currently learning **NLP & LLM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
