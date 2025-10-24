@@ -1,7 +1,7 @@
 <h1 align="center">Yus</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1A80F0&center=true&vCenter=true&width=350&lines=Visionary+Ambitiously+Person;Bring+AI+as+International+Global+Peace+%26+Unity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1A80F0&center=true&vCenter=true&width=750&lines=Visionary+Ambitiously+Person;Bring+AI+as+International+Global+Peace+%26+Unity" alt="Typing SVG" />
 </p>
 
 <p align="center">
