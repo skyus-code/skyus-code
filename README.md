@@ -29,18 +29,20 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/CodeIgniter-F44336?style=flat-square&logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-</p>
-
+<svg width="600" height="72" viewBox="0 0 600 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .tool { font-family: 'Montserrat', Arial, sans-serif; font-weight: 700; font-size: 18px; }
+    .bg { rx: 12; }
+  </style>
+  <rect x="10" y="10" width="120" height="52" fill="#F44336" class="bg"/>
+  <rect x="140" y="10" width="120" height="52" fill="#F7DF1E" class="bg"/>
+  <rect x="270" y="10" width="120" height="52" fill="#4DB33D" class="bg"/>
+  <rect x="400" y="10" width="120" height="52" fill="#4479A1" class="bg"/>
+  <text x="30" y="42" class="tool" fill="#fff">CodeIgniter</text>
+  <text x="160" y="42" class="tool" fill="#222">JavaScript</text>
+  <text x="295" y="42" class="tool" fill="#fff">MongoDB</text>
+  <text x="420" y="42" class="tool" fill="#fff">MySQL</text>
+</svg>
 ---
 
 <p align="center">
