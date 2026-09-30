@@ -1,7 +1,7 @@
 <h1 align="center">Yus</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=1A80F0&center=true&vCenter=true&width=850&lines=Code;Eat;Sleep;Repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=5&pause=1200&color=1A80F0&center=true&vCenter=true&width=850&lines=Code;Eat;Sleep;Repeat" alt="Typing SVG" />
 </p>
 
 <p align="center">
